@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Community management
+  percentage: 70
+  color: success
+
+- name: Event organising
+  percentage: 75
+  color: success
+
+- name: Live streaming
+  percentage: 10
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Video editing
+  percentage: 30
+  color: secondary
+
+- name: Image editing
+  percentage: 70
+  color: secondary
