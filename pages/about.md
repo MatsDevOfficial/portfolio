@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a creator in general. I work on a lot of things, you can see all my projects in the "projects" tab. I mainly work on things related to Minecraft, Websites or Software.
+I work on a lot of project, mainly projects for fun, [the openbase foundation](https://github.com/OpenBase-Foundation) and school. Most of my projects will be website related. However, you may find some others regarding software and operating systems.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
