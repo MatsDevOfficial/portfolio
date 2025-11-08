@@ -1,6 +1,7 @@
 ---
-name: Minecraft Server Admin and Developer
-tools: [Minecraft, Server]
+name: LLtool
+tools: [Vite, React, Supabase, GH Pages, Webreus]
 image: https://github.com/jjkay03/jjkay03.github.io/blob/master/docs/assets/project_banners/santoria%20banner.png?raw=true
-description: Managing comunnities and coding custom plugins for MC servers.
+description: Creating a tool that highschools and universities can use to create picturebooks of a cohort. Free for all educational instances, donations accepted.
+external_url: https://github.com/OpenBase-Foundation/lltool
 ---
