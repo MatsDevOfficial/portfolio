@@ -1,19 +1,3 @@
-- name: Community management
-  percentage: 70
+- name: Touching grass
+  percentage: 2
   color: success
-
-- name: Event organising
-  percentage: 75
-  color: success
-
-- name: Live streaming
-  percentage: 10
-  color: info
-
-- name: Video editing
-  percentage: 30
-  color: secondary
-
-- name: Image editing
-  percentage: 70
-  color: secondary
